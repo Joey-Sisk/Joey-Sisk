@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://joey-sisk.github.io/](https://joey-sisk.github.io/)
+- 👨‍💻 All of my projects are available at [https://joeysiskportfolio.netlify.app/)
 
 - 📫 How to reach me **jjmsisk@gmail.com**
 
