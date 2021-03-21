@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://joeysiskportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://joeysiskportfolio.netlify.app/)
 
 - 📫 How to reach me **jjmsisk@gmail.com**
 
