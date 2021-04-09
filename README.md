@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joey-sisk" alt="joey-sisk" /></a> </p>
 
-- 🔭 I’m currently working on an [My new React Portfolio](https://joeysiskportfolio.netlify.app/)
+- 🔭 I’m currently working on the [Zombie=Parent](https://github.com/jeishu/zombie-parent) web application
 
 - 🌱 I’m currently learning **React**
 
