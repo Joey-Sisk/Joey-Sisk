@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joey-sisk" alt="joey-sisk" /></a> </p>
 
-- 🔭 I’m currently working on the [Zombie-Parent](https://github.com/jeishu/zombie-parent) web application
+- 🔭 I’m currently working on the [Memphis Kee's](https://github.com/Joey-Sisk/memphis-kee) website
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://joeysiskportfolio.netlify.app/)
 
