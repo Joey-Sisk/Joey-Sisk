@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joey-sisk" alt="joey-sisk" /></a> </p>
 
-- 🔭 I’m currently working on the [Felan's Bakery](https://github.com/Joey-Sisk/felans-bakery) website
-
-- 🌱 I’m currently learning **CI/CD Pipelines**
+- 🔭 I’m currently working on the [Memphis Kee](www.memphiskee.com) website
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://joeysiskportfolio.netlify.app/)
 
